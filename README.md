@@ -20,6 +20,20 @@ Join us for a thought-provoking discussion that will change the way you think ab
 
 ---
 
+- [How we can overcome the biggest challenge in Robotics - Human-Robot Interaction!](#how-we-can-overcome-the-biggest-challenge-in-robotics---human-robot-interaction)
+  - [Guidelines for Human-Robot Interaction](#guidelines-for-human-robot-interaction)
+  - [The Influence of Science Fiction on Public Perception of Robots](#the-influence-of-science-fiction-on-public-perception-of-robots)
+  - [Biggest Technical Challenges in HRI Research](#biggest-technical-challenges-in-hri-research)
+  - [Promising Research Areas and Breakthroughs in HRI](#promising-research-areas-and-breakthroughs-in-hri)
+  - [Debate Guide: Opposing Human-Robot Interaction (HRI)](#debate-guide-opposing-human-robot-interaction-hri)
+  - [Debate Guide: Advocating for Human-Robot Interaction (HRI)](#debate-guide-advocating-for-human-robot-interaction-hri)
+  - [Advantages and Disadvantages of HRI](#advantages-and-disadvantages-of-hri)
+  - [Key Players and Stakeholders in Human-Robot Interaction (HRI)](#key-players-and-stakeholders-in-human-robot-interaction-hri)
+  - [Human-Robot Interaction: A Comprehensive Report](#human-robot-interaction-a-comprehensive-report)
+
+
+---
+
 ## Guidelines for Human-Robot Interaction
 
 These guidelines are designed to promote safe, ethical, and productive interactions between humans and robots, based on the information from the sources and our conversation history.
